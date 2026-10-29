@@ -1,0 +1,23 @@
+{
+  "name": "jsaqa-task7.2",
+  "version": "1.0.0",
+  "description": "Seventh task for the Web UI test automation course (second part)",
+  "homepage": "https://github.com/k-o-white/jsaqa-task7.2#readme",
+  "bugs": {
+    "url": "https://github.com/k-o-white/jsaqa-task7.2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/k-o-white/jsaqa-task7.2.git"
+  },
+  "license": "ISC",
+  "author": "Kirill Burilichev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}

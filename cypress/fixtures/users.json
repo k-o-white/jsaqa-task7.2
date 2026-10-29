@@ -1,0 +1,24 @@
+
+{
+  "createUser": {
+    "id": 101,
+    "firstName": "Ezio",
+    "surName": "Auditore"
+  },
+  "updateUser": {
+    "id": 102,
+    "firstName": "Edward",
+    "surName": "Kenway"
+  },
+  "updatedUser": {
+    "id": 102,
+    "firstName": "Haytham",
+    "surName": "Kenway"
+  },
+  "deleteUser": {
+    "id": 103,
+    "firstName": "Arno",
+    "surName": "Dorian"
+  }
+}
+
