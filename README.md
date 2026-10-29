@@ -1,3 +1,5 @@
+[![jsaqa-task7.2](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/hfnv9g&style=flat&logo=cypress)](https://cloud.cypress.io/projects/hfnv9g/runs)
+
 # Домашнее задание к занятию «7.7. Cypress 2»
 
 Любые вопросы по решению задач задавайте в чате учебной группы.
